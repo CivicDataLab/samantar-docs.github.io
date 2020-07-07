@@ -8,9 +8,14 @@ Welcome to Samantar's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-
+   annotation_platform
+   crowdsourced_translation_platform
+   topic_modeling
+   corpus_linguistics
+   machine_translation
+   med
+   english_assamese_glossary
 
 Indices and tables
 ==================
