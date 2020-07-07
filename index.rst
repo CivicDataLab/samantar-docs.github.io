@@ -16,10 +16,3 @@ Welcome to Samantar's documentation!
    machine_translation
    med
    english_assamese_glossary
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
