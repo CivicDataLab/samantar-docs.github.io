@@ -34,7 +34,7 @@ Platform Usage
 
 - MED consists of two features - translation and transliteration; and currently supports English and Assamese.
 - Land `here <http://med.samantar.in/>`_ to find the dropdown for both of the features.
-- Transliteration here, is the conversion of english language to english written in Assamese language. For example, converting `hi` (English) to `হী` (Assaemese)
+- Transliteration here, is the conversion of english language to english written in Assamese language. For example, converting `assam` (English) to `আসাম` (Assamese).
 - The transliteration happens real-time and the rich text editor provides features such as formatting, linting, adding multimedia and so on.
 - The translation interface consists of two columns, where you key in the sentence/word(s) of the source language and get the corresponding translated version in the target language.
 
