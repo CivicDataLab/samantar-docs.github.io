@@ -20,6 +20,8 @@ We took the physical copy of the Administrative glossary and scanned it into a d
 Methodology
 ***********
 
+This section explains the setup and process.
+
 Setup
 #####
 
