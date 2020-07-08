@@ -22,9 +22,9 @@ This section explains the setup and the process.
 Setup
 #####
 
-The setup guide for MED can be found `here <https://github.com/CivicDataLab/med>`_.
+The setup guide for MED can be found `here <https://github.com/CivicDataLab/med>`_. Written in TypeScript.
 
-The Transliteration API code, alongside instructions can be found `here <https://github.com/CivicDataLab/transliteration_api>`_.
+The Transliteration API code, alongside instructions can be found `here <https://github.com/CivicDataLab/transliteration_api>`_. Written in Python.
 
 Process
 #######
