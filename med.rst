@@ -1,6 +1,6 @@
 Multi-lingual Editor
--------------------
--------------------
+--------------------
+--------------------
 
 Introduction
 ************
@@ -39,7 +39,7 @@ Platform Usage
 - The translation interface consists of two columns, one where you key in the sentence/word(s) of the source language and get the corresponding translated version in the target language.
 
 Summary
-*****
+*******
 
 MEd is a Multilingual rich text Editor that supports features processes like Translation and Transliteration. The transliteration is provided from the `transliteration_api <https://github.com/CivicDataLab/transliteration_api>`_ and the translation is currently from a lookup JSON.
 
