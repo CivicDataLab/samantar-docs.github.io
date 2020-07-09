@@ -10,9 +10,9 @@ Welcome to Samantar's documentation!
    :maxdepth: 2
 
    annotation_platform
+   english_assamese_glossary
+   med
    crowdsourced_translation_platform
    topic_modeling
    corpus_linguistics
    machine_translation
-   med
-   english_assamese_glossary
