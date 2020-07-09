@@ -21,7 +21,7 @@ Step 1: Apply a learning algorithm to parallel corpora and build an approximate 
 
 Step 2: Apply learned model to new source language text and obtain translations in target language.
 
-Machine Translation Model
+* Machine Translation Model
 
 The translation must be semantically adequate, which means that all of the meaning in the source language in the sentence/document should carry over to the target language. So there should be no meaning lost. And the other thing is whatever meaning rendered in the target language, is fluent in that language. So words shouldn't be in some random order.
 To appreciate how Machine Translation has evolved through the years, we’ll touch upon a few history aspects of it.
