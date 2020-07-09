@@ -8,13 +8,11 @@ Welcome to Samantar's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   annotation_platform
+   english_assamese_glossary
+   med
+   crowdsourced_translation_platform
+   topic_modeling
+   corpus_linguistics
+   machine_translation
