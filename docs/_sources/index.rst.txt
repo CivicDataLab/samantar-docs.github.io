@@ -6,6 +6,10 @@
 Welcome to Samantar's documentation!
 ====================================
 
+Samantar is an open source initiative by `CivicDataLab <https://civicdatalab.,in>`_, to increase the digital presence of Indic languages. This is done by - bootstrapping the corpora creation and developing language’s tools such as Grammars, machine translation systems, analyzing language complexity, build dictionaries, text annotation platforms, among others. Ultimately, we plan to enable the language communities to speak and share their knowledge on digital space with ease.
+
+Our works are documented below.
+
 .. toctree::
    :maxdepth: 2
 
@@ -16,3 +20,4 @@ Welcome to Samantar's documentation!
    topic_modeling
    corpus_linguistics
    machine_translation
+   resources
