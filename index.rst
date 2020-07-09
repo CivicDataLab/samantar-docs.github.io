@@ -16,3 +16,4 @@ Welcome to Samantar's documentation!
    topic_modeling
    corpus_linguistics
    machine_translation
+   resources
