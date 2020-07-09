@@ -84,7 +84,7 @@ Platform Usage
 
 - Drag along the words(or subwords or group of words) and assign tags by either selecting from the given tags or by the hotkeys.
 
-- The User and Label stats can be viewed in the ``Statistics`` section.
+ The User and Label stats can be viewed in the ``Statistics`` section.
 
 - One can write Annotation Guidelines for each of the project. This helps other collaborators to get along with the prescribed standard.
 

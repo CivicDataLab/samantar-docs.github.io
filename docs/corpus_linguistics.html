@@ -102,6 +102,7 @@
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="machine_translation.html">Machine Translation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="resources.html">Resources</a></li>
 </ul>
 
             
@@ -176,20 +177,73 @@
 </div>
 <div class="section" id="methodology">
 <h2>Methodology<a class="headerlink" href="#methodology" title="Permalink to this headline">¶</a></h2>
+<p>This section explains the setup and the process.</p>
 <div class="section" id="setup">
 <h3>Setup<a class="headerlink" href="#setup" title="Permalink to this headline">¶</a></h3>
+<p>The setup for Language Analysis for Budget Speech (LABS) is provided <a class="reference external" href="https://github.com/CivicDataLab/labs">here</a>.</p>
+<p>To install <cite>complang</cite> check the setup guide <a class="reference external" href="https://github.com/CivicDataLab/complang">here</a></p>
 </div>
 <div class="section" id="process">
 <h3>Process<a class="headerlink" href="#process" title="Permalink to this headline">¶</a></h3>
+<p>LABS was built to analyse the language complexity in Union Budget speeches over the years. It uses <cite>complang</cite>, a python package, that has different linguistic and complex network measures to measure language complexity.</p>
+<p>It also comes with the crawler code for scraping budget speeches.</p>
 <div class="section" id="complang">
 <h4>complang<a class="headerlink" href="#complang" title="Permalink to this headline">¶</a></h4>
+<p>The explaination of each of the measure used is provided in the docstrings of their respective functions (here in the <a class="reference external" href="https://github.com/CivicDataLab/complang/tree/master/measures">measures</a>).</p>
+<p>Below are the Vocabulary measures used:</p>
+<ul class="simple">
+<li><p>Type-token ratio</p></li>
+<li><p>Guiraud_r Index</p></li>
+<li><p>Herdan_c Index</p></li>
+<li><p>Dugast_k measure</p></li>
+<li><p>Maas_a2 measure</p></li>
+<li><p>Dugast_u measure</p></li>
+<li><p>Tuldava measure</p></li>
+<li><p>Brunet_w measure</p></li>
+<li><p>CTTR measure</p></li>
+<li><p>Summer_s score</p></li>
+<li><p>Sichel_s measure</p></li>
+<li><p>Michea_m measure</p></li>
+<li><p>Honore_h score</p></li>
+<li><p>Herdan_vm measure</p></li>
+<li><p>Entropy</p></li>
+<li><p>Yule_k measure</p></li>
+<li><p>Simpson_d measure</p></li>
+<li><p>HDD</p></li>
+<li><p>MTLD</p></li>
+</ul>
+<p>Below are the list of Dependency measures used:</p>
+<ul class="simple">
+<li><p>Average dependency distance</p></li>
+<li><p>Average closeness centrality</p></li>
+<li><p>Average closeness outdegree</p></li>
+<li><p>Average dependents per word</p></li>
+<li><p>Average longest shortest path</p></li>
+<li><p>Average sentence length</p></li>
+<li><p>Average length of characters in a sentence</p></li>
+<li><p>Average length of syllables in a sentence</p></li>
+<li><p>Average punctuations per sentence</p></li>
+</ul>
+<p>Below are the list of Constituent measures used:</p>
+<ul class="simple">
+<li><p>T units</p></li>
+<li><p>Complex T units</p></li>
+<li><p>Clauses</p></li>
+<li><p>Dependent Clauses</p></li>
+<li><p>NPS</p></li>
+<li><p>VPS</p></li>
+<li><p>Coordinate phrases</p></li>
+<li><p>Constituents</p></li>
+<li><p>Constituents w/o leaves</p></li>
+<li><p>Height</p></li>
+</ul>
 </div>
 </div>
 </div>
 <div class="section" id="summary">
 <h2>Summary<a class="headerlink" href="#summary" title="Permalink to this headline">¶</a></h2>
-<p>Complang - a python library that consists of language complexity features</p>
-<p>Lglint - a python library to extract information from the Indian Judgements</p>
+<p>Corpus lingustics was applied to Union budget speeches to analyse the language complexity. The results of the experiments can be found <a class="reference external" href="https://github.com/CivicDataLab/LABS/tree/master/experiments">here</a> . Complang is being used as a submodule that contains all of the linguistic measures and few of the complex networks measures.</p>
+<p>Please feel free to write us at <code class="docutils literal notranslate"><span class="pre">mailto:info&#64;civicdatalab.in</span></code>, if you have any questions or concerns, we are happy to help!</p>
 </div>
 </div>
 
