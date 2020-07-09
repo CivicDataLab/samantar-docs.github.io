@@ -41,7 +41,7 @@ Platform Usage
 Summary
 *****
 
-MEd is a Multilingual rich text Editor that supports features processes like Translation and Transliteration. The transliteration is provided from the `transliteration_api <https://github.com/CivicDataLab/transliteration_api>`_ and the translation is currently hard-coded.
+MEd is a Multilingual rich text Editor that supports features processes like Translation and Transliteration. The transliteration is provided from the `transliteration_api <https://github.com/CivicDataLab/transliteration_api>`_ and the translation is currently from a lookup JSON.
 
 
 
