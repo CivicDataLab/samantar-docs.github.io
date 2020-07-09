@@ -29,7 +29,7 @@ The processes are documented in each of the jupyter notebook in this `repository
 
 
 Summary
-*****
+*******
 
 Topic modeling is performed on Union budget suggestions 2020 dataset. The topics are obtained in an unsupervised setting and topics are obtained as unigrams and bigrams. All of the results can be found in the jupyter notebooks.
 
